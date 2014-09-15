@@ -1,5 +1,6 @@
 /*Munchkin Advice Bot 2.0*/
 /*Now with added Git support*/
+/*This is to help indecisive people decide if to play Munchkin or not*/
 
 #include <stdio.h>
 
