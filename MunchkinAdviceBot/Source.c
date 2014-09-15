@@ -1,6 +1,8 @@
 /*Munchkin Advice Bot 2.0*/
+/*Now with added Git support*/
 
 #include <stdio.h>
+
 
 int main(void)
 {
@@ -24,7 +26,6 @@ int main(void)
 			printf("\nIs there still a chance to play Munchkin? 1=YES 2=NO 3=EXIT\n");
 			scanf_s("%d", &Sel);
 		}
-			
 	}
-	
+	return 0;
 }
